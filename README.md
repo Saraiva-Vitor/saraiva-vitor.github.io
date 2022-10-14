@@ -6,19 +6,17 @@
 
 <h4 align="center"><a href="https://saraiva-vitor.github.io/">Clique para visitar o projeto</a></h4>
 
-<h2>Seções</h2>
+## Seções
 
 O site é composto por cinco seções:
 
-<ul>
-<li>Home:** Nele temos uma breve apresentação;</li>
-<li>Quem sou:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;</li>
-<li>Experiência:** Abordo algumas empresas da qual prestei meus serviços na área de desenvolvimento e design;</li>
-<li>Projetos:** Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub;</li>
-<li>Serviços:** Exibe através de cards os diferentes serviços em que possuo conhecimentos;</li>
-<li>Conhecimentos:** Nele apresentamos meus conhecimentos em algumas linguagens como o foco no front-end;</li>
-</ul>
-  
+- **Home:** Nele temos uma breve apresentação;
+- **Quem sou:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
+- **Experiência:** Abordo algumas empresas da qual prestei meus serviços na área de desenvolvimento e design;
+- **Projetos:** Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub;
+- **Serviços:** Exibe através de cards os diferentes serviços em que possuo conhecimentos;
+- **Conhecimentos:** Nele apresentamos meus conhecimentos em algumas linguagens como o foco no front-end;
+
 ---
 
 ## Tecnologias utilizadas
@@ -47,6 +45,4 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
     </td>
   </tr>
 </table>
-#� �s�a�r�a�i�v�a�-�v�i�t�o�r�.�g�i�t�h�u�b�.�i�o�
-�
-�
+#
