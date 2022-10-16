@@ -9,45 +9,34 @@ initScrollReveal();
 typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
-  ".digitalhouse",
-  `Atualmente trabalho como professor conteudista em frontend na
-  Digital House, o trabalho consiste em criar conteúdos para as
-  aulas de especialização frontend. Alguns temas dos conteúdos
-  realizados foram: React, Redux, TypeScript, Testes,
-  GraphQL, Next.js, MUI, React Hook Form e styled-components.`,
-  "Professor conteudista em Frontend",
-  "Digital House",
-  "Nov 2021 - Atual (Quase 1 ano)"
+  ".serrajr",
+  `Trabalho como trainee no setor de engenharia da computação, trabalhando com frontend e backend,
+   o trabalho consiste em criar e desenvolver projetos, sites e outros sistemas e programas.`,
+  "Trainee em Engenharia da Computação",
+  "Serra Jr. Engenharia",
+  "Set 2022 - Hoje"
 );
 
 hoverChangeExperience(
-  ".zuplae",
-  `Trabalhei como Social Media e Designer na Zuplae que é um escola
-  de programação, onde teve como foco as criações de conteúdos sobre
-  programação para a comunidade dev através das redes sociais.`,
-  "Social Media e UI Designer",
-  "Zuplae",
-  "Jan 2022 - Abril 2022 (4 meses)"
+  ".bajasae",
+  `Dimensionamento e manutenção do sistema de telemetria e
+  elétrica de um veículo mini-baja SAE. Aquisição de conhecimento 
+  nas normas técnicas e de segurança e no manuseio de ferramentas 
+  de corte e solda. Participação da 8ª Edição do BAJA - RIO junto à equipe`,
+  "Membro do Setor de Telemetria",
+  "Caledonia Racing Baja SAE",
+  "Jul 2022 - Hoje"
 );
 
 hoverChangeExperience(
-  ".codigofontetv",
-  `Trabalhei como Social Media e Designer no Código Fonte TV, 
-  onde teve como foco as criações de conteúdos sobre programação 
-  para a comunidade dev através das redes sociais do CDF.`,
-  "Social Media e Designer",
-  "Código Fonte TV",
-  "Jun 2021 - Jan 2022 (8 meses)"
-);
-
-hoverChangeExperience(
-  ".contweb",
-  `Realizei o estágio na ContWeb, uma empresa de contabilidade. 
-  Onde pela primeira vez tive experiência com o React. Além do
-  desenvolvimento frontend criei os designs da nova plataforma da empresa.`,
-  "Developer frontend e UI Designer",
-  "ContWeb",
-  "Set 2021 - Nov 2021 (3 meses)"
+  ".uerj",
+  `Desenvolvimento de protótipos de Sistemas de Automação
+  para o auxílio do ensino nos cursos de graduação. Na etapa
+  atual atuo na prototipagem de projetos relacionados à Arduino
+  e projetos envolvendo impressões 3D.`,
+  "Estágio Interno Complementar",
+  "Universidade do Estado do Rio de Janeiro",
+  "Jun 2022 - Hoje"
 );
 
 hoverChangeDescription(
